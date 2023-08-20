@@ -68,6 +68,7 @@
   
   html {
     box-sizing: border-box;
+    overflow-x:hidden;
   }
   
   body {
@@ -77,6 +78,7 @@
     font-style: normal;
     font-weight: var(--fontWeightRegular);
     color: var(--colorWhiteSmoke);
+    overflow-x:hidden;
   }
   
   .title {
